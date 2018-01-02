@@ -1,0 +1,67 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+    <string name="app_name">Note App</string>
+    <string name="authorName">Hung Nguyen</string>
+    <string name="authorEmail">hnguyen499</string>
+    <string name="authorLevel">Senior</string>
+    <string name="number1">1</string>
+    <string name="name1">JaVale McGee</string>
+    <string name="position1">Center</string>
+    <string name="number2">2</string>
+    <string name="name2">Jordan Bell</string>
+    <string name="position2">Forward</string>
+    <string name="number3">3</string>
+    <string name="name3">David West</string>
+    <string name="position3">Forward</string>
+    <string name="number4">4</string>
+    <string name="name4">Quinn Cook</string>
+    <string name="position4">Guard</string>
+    <string name="number5">5</string>
+    <string name="name5">Kevon Looney</string>
+    <string name="position5">Forward</string>
+    <string name="number6">6</string>
+    <string name="name6">Nick Young</string>
+    <string name="position6">Guard-Forward</string>
+    <string name="getLocationButton">Get Location and address</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Strings related to title -->
+    <string name="title_Signin">Sign In</string>
+    <string name="title_Signup">Sign Up</string>
+    <string name="title_Userinfo">User Information</string>
+    <string name="title_Usersubscribe">Subscribe To</string>
+    <string name="title_Admininfo">Admin Information</string>
+    <string name="title_CreateNote">Create Note</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="status_sign_in">Please Sign In</string>
+    <string name="status_sign_up">Enter Email and Password to sign up</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_tagstring">This TagString is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <!-- Strings related to user info -->
+    <string name="subscribe">Subscribe</string>
+    <string name="listnote">Note List</string>
+    <string name="logout">Log Out</string>
+    <string name="prompt_tag">Enter Tag name</string>
+
+    <!-- Strings related to admin info -->
+    <string name="admin_NoteList">Note List</string>
+    <string name="admin_CreateNote">Create Note</string>
+    <string name="admin_logout">Log Out</string>
+    <string name="prompt_title">Enter Title</string>
+    <string name="prompt_content">Enter Content</string>
+    <string name="action_Create">Create Note</string>
+
+</resources>
